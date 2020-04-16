@@ -23,7 +23,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale.
  
 Then, I applied the Gaussian blur to the image to reduce the noise
 
-<img src="test_image_output/gray_image2.jpg" width="480" alt="Combined Image" />
+<img src="test_image_output/gray2_image.jpg" width="480" alt="Combined Image" />
  
 After that, I applied the canny edge detection technique to detect the edges in the picture.
  
